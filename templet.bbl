@@ -1,0 +1,77 @@
+\begin{thebibliography}{1}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{li2007robust}
+\bibauthor{LI X\@, HU W\@, ZHANG Z, et~al}\@. \bibtitle{Robust visual tracking
+  based on incremental tensor subspace learning}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of the IEEE International Conference
+  on Computer Vision}\@. \bibyear{2007}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}8}\@.
+
+\bibitem{wen2009incremental}
+\bibauthor{WEN J\@, LI X\@, GAO X, et~al}\@. \bibtitle{Incremental learning of
+  weighted tensor subspace for visual tracking}\bibmark{[C]}
+  //\thinspace{}\bibbooktitle{Proceedings of the IEEE Conference on Systems,
+  Man and Cybernetics}\@. \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{3688\thinspace{}\textnormal{--}\thinspace{}3693}\@.
+
+\bibitem{Zhang2012Real}
+\bibauthor{ZHANG K\@, ZHANG L\@, YANG M~H}\@. \bibtitle{Real-Time Compressive
+  Tracking}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the
+  European Conference on Computer Vision\thinspace{}\textnormal{: }Vol~3}\@.
+  \bibyear{2012}\thinspace{}\textnormal{:
+  }\bibpages{864\thinspace{}\textnormal{--}\thinspace{}877}\@.
+
+\bibitem{kalal2012tracking}
+\bibauthor{KALAL Z\@, MIKOLAJCZYK K\@, MATAS J}\@.
+  \bibtitle{Tracking-learning-detection}\bibmark{[J]}\@. \bibjournal{IEEE
+  Transactions on Pattern Analysis and Machine Intelligence}\@,
+  \bibyear{2012}\@, \bibvolume{34}\bibnumber{(7)}\thinspace{}\textnormal{:
+  }\bibpages{1409\thinspace{}\textnormal{--}\thinspace{}1422}\@.
+
+\bibitem{babenko2011robust}
+\bibauthor{BABENKO B\@, YANG M-H\@, BELONGIE S}\@. \bibtitle{Robust object
+  tracking with online multiple instance learning}\bibmark{[J]}\@.
+  \bibjournal{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}\@, \bibyear{2011}\@,
+  \bibvolume{33}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{1619\thinspace{}\textnormal{--}\thinspace{}1632}\@.
+
+\bibitem{saffari2009line}
+\bibauthor{SAFFARI A\@, LEISTNER C\@, SANTNER J, et~al}\@. \bibtitle{On-line
+  random forests}\bibmark{[C]} //\thinspace{}\bibbooktitle{Proceedings of the
+  IEEE International Conference on Computer Vision}\@.
+  \bibyear{2009}\thinspace{}\textnormal{:
+  }\bibpages{1393\thinspace{}\textnormal{--}\thinspace{}1400}\@.
+
+\bibitem{hare2016struck}
+\bibauthor{HARE S\@, GOLODETZ S\@, SAFFARI A, et~al}\@. \bibtitle{Struck:
+  Structured output tracking with kernels}\bibmark{[J]}\@. \bibjournal{IEEE
+  Transactions on Pattern Analysis and Machine Intelligence}\@,
+  \bibyear{2016}\@, \bibvolume{38}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{2096\thinspace{}\textnormal{--}\thinspace{}2109}\@.
+
+\end{thebibliography}

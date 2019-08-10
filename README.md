@@ -11,27 +11,32 @@ XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, ma
 
 1.此处修改“二级学科”为“二级学科（研究方向）”，同时全部加上了冒号（与官方相同）。
 
-2.此处修改“Thesis”为“thesis”，同时谨记2019届毕业论文模板英文处的学科是你的一级学科名称。
 
-3.此处修改论文的分割线，原先模板是没有对齐的，现已按照学校官方模板的样子对齐了。
 
-4.此处将加粗单线修改为双线（与官方同步）。
+![](C:\Users\wangf\Desktop\1.jpg)
+
+2.此处修改“Thesis”为“thesis”，同时谨记2019届毕业论文模板英文处的学科是你的一级学科名称。![](C:\Users\wangf\Desktop\2.jpg)
+
+3.此处修改论文的分割线，原先模板是没有对齐的，现已按照学校官方模板的样子对齐了。![3](C:\Users\wangf\Desktop\3.jpg)![4](C:\Users\wangf\Desktop\4.jpg)
+
+4.此处将加粗单线修改为双线（与官方同步）。![5](C:\Users\wangf\Desktop\5.jpg)
 
 ## 如何使用
 
-- 本模板的默认封面为工学硕士封面。
-- 论文和作者的相关信息可在XDUthesis.cfg文件中进行修改。
-- 参考文献在./bib/tex.bib文件中录入。百度学术和谷歌学术均支持BibTeX格式导出，但其中夹杂很多不规范的条目，应注意进行检查。
+* 本模板的默认封面为工学硕士封面。
+
+* 论文和作者的相关信息可在XDUthesis.cfg文件中进行修改。
+
+* 参考文献在./bib/tex.bib文件中录入。百度学术和谷歌学术均支持BibTeX格式导出，但其中夹杂很多不规范的条目，应注意进行检查。
+
 
 ## 系统需求
 
 本模板需要使用 XeTeX 引擎编译。Linux下编译时需首先配置windows系统中提供的SimSun和SimHei字体。模板验证无问题的平台为Debian 8 和TeX Live 2016，TeX Live 2017，TeX Live 2019。
 
 ## 知已问题
-
 使用XeTeX时，AutoFakeBold选项导致复制乱码。模板中在`\begin{document}`后插入一个日文的空格'　'，使得除章节一级标题外其他内容可复制。
 
 ## 查重问题
-
 本模板生成的PDF在知网查重符合学校标准，不会产生乱码。
 
