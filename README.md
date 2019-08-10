@@ -10,15 +10,9 @@ XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, ma
 ***声明：此模板是本人在睿思下载到的模板基础上修改的，其原GitHub链接在：https://github.com/103yiran/XDUthesis_xelatex （我也不知道是不是原作者）***
 
 1.此处修改“二级学科”为“二级学科（研究方向）”，同时全部加上了冒号（与官方相同）。
-
-
-
 ![](C:\Users\wangf\Desktop\1.jpg)
-
 2.此处修改“Thesis”为“thesis”，同时谨记2019届毕业论文模板英文处的学科是你的一级学科名称。![](C:\Users\wangf\Desktop\2.jpg)
-
 3.此处修改论文的分割线，原先模板是没有对齐的，现已按照学校官方模板的样子对齐了。![3](C:\Users\wangf\Desktop\3.jpg)![4](C:\Users\wangf\Desktop\4.jpg)
-
 4.此处将加粗单线修改为双线（与官方同步）。![5](C:\Users\wangf\Desktop\5.jpg)
 
 ## 如何使用
