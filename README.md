@@ -12,7 +12,7 @@ XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, ma
 1.此处修改“二级学科”为“二级学科（研究方向）”，同时全部加上了冒号（与官方相同）。
 ![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/1.jpg)
 
-2.此处修改“Thesis”为“thesis”，同时谨记2019届毕业论文模板英文处的学科是你的一级学科名称。![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/2.jpg)
+2.此处修改“Thesis”为“thesis”，同时谨记2019届毕业论文模板英文处的学科是你的一级学科名称（以前的时候是你的二级学科）。![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/2.jpg)
 
 3.此处修改论文的分割线，原先模板是没有对齐的，现已按照学校官方模板的样子对齐了。![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/3.jpg) ![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/4.jpg)
 
