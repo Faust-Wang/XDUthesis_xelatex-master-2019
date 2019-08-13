@@ -4,10 +4,10 @@ XDUthesis_xelatex is an *unofficial* XeLaTeX template for preparing bachelor, ma
 
 # 西安电子科技大学学位论文LaTex模板
 
-本模板根据西安电子科技大学研究生院发布的[研究生学位论文模板（2015版）](http://gr.xidian.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1281831001&wbfileid=2041391)修改而成，并满足其规定的格式要求。研究生院官方发布的模板编译方式为latex，采用GBK编码，仅支持CTeX(2.9.2)。官方模板部分语法老旧，本模板修正了其中存在的一些问题，并且支持xelatex编译，使用时更为便利。模板采用UTF-8编码，支持Linux和TeX Live 2016。
+本模板根据西安电子科技大学研究生院发布的[研究生学位论文模板（2015版）](http://gr.xidian.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1281831001&wbfileid=2041391)修改而成，并满足其规定的格式要求。研究生院官方发布的模板编译方式为latex，采用GBK编码，仅支持CTeX(2.9.2)。官方模板部分语法老旧，本模板修正了其中存在的一些问题，并且支持xelatex编译，使用时更为便利。模板采用UTF-8编码，支持Linux和TeX Live 2016，TeX Live 2017，TeX Live 2019.
 由于旧版本模板跟学校最新的模板相比有些许不同，对一些不熟悉LATEX的同学来说修改有些困难，故做出以下修正，使之与学校最新（截至2019年6月）的模板同步。
 
-***声明：此模板是本人在睿思下载到的模板基础上修改的，其原GitHub链接在：https://github.com/103yiran/XDUthesis_xelatex （我也不知道是不是原作者）***
+***声明：此模板是本人在睿思下载到的模板基础上修改的，睿思上帖子注明其原GitHub链接在：https://github.com/103yiran/XDUthesis_xelatex （我也不知道该GitHub是不是原作者）***
 
 1.此处修改“二级学科”为“二级学科（研究方向）”，同时全部加上了冒号（与官方相同）。
 ![image](https://github.com/Wangfakui/XDUthesis_xelatex-master-2019/blob/master/figures/1.jpg)
